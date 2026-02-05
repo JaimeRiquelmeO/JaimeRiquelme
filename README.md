@@ -42,6 +42,7 @@ Ingeniero Civil Informático de la Universidad de Santiago de Chile. Apasionado 
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs)
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=spring)
+![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb)
@@ -61,14 +62,16 @@ Ingeniero Civil Informático de la Universidad de Santiago de Chile. Apasionado 
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jaimeriquelme&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeriquelme&theme=github_dark&hide_border=true&layout=compact&bg_color=0D1117" />
+  <img height="160" src="./profile/stats.svg" />
+  <img height="160" src="./profile/top-langs.svg" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaimeriquelme&theme=github-compact&area=true&hide_border=true&bg_color=0D1117&color=c9d1d9&line=6c63ff&point=c9d1d9&area_color=6c63ff" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jaimeriquelme&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
